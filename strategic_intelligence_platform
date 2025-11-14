@@ -1,0 +1,449 @@
+#%% env
+from dotenv import load_dotenv
+load_dotenv()
+
+#%% imports
+import os
+import time
+import json
+import logging
+import hashlib
+import requests
+import csv
+from datetime import datetime, timezone
+from typing import List, Dict, Set, Optional
+
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+#%% config (final choices)
+POLL_INTERVAL_SECONDS = 900           # 15 minutes between cycles
+TOTAL_PER_KEYWORD = 200               # target number of articles to gather per keyword
+NEWSAPI_PAGE_SIZE = 100               # NewsAPI pageSize (100 is max for many plans)
+DEFAULT_LANGUAGE = "en"
+
+SEEN_FILE = "seen_items.csv"
+AGGREGATED_CSV = "aggregated_data.csv"
+LLM_CACHE_FILE = "llm_cache.json"
+ALERT_STATE_FILE = "alert_state.json"
+LOG_FILENAME = "news_monitor.log"
+
+NEGATIVE_ALERT_THRESHOLD = -0.5
+POSITIVE_ALERT_THRESHOLD = 0.5
+ALERT_COOLDOWN_SECONDS = 900  # 15 minutes cooldown (you selected B)
+
+#%% setup logging & VADER
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.FileHandler(LOG_FILENAME), logging.StreamHandler()],
+)
+
+nltk.download("vader_lexicon", quiet=True)
+sia = SentimentIntensityAnalyzer()
+
+#%% env keys (your exact names)
+NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+
+#%% Slack helper
+def send_to_slack(message: str) -> bool:
+    """Post a text message to Slack incoming webhook. Returns True if success."""
+    if not SLACK_WEBHOOK_URL:
+        logging.warning("Slack webhook URL not found. Skipping Slack notification.")
+        return False
+    try:
+        resp = requests.post(SLACK_WEBHOOK_URL, json={"text": message}, timeout=10)
+        if resp.status_code != 200:
+            logging.warning("Slack post failed (%s): %s", resp.status_code, resp.text)
+            return False
+        logging.info("Sent update to Slack.")
+        return True
+    except Exception as e:
+        logging.warning("Error sending to Slack: %s", e)
+        return False
+
+#%% Gemini (Google GenAI) client import (try a couple import patterns)
+GEMINI_AVAILABLE = False
+genai = None
+try:
+    # preferred modern import
+    from google import genai as genai_mod
+    genai = genai_mod
+    GEMINI_AVAILABLE = True
+except Exception:
+    try:
+        import google.genai as genai_mod2
+        genai = genai_mod2
+        GEMINI_AVAILABLE = True
+    except Exception:
+        GEMINI_AVAILABLE = False
+
+#%% helper: LLM analyze using Gemini
+def analyze_with_gemini(text: str, model: str = "gemini-2.0-flash") -> Optional[Dict]:
+    """
+    Ask Gemini to return JSON:
+    { "sentiment": "positive|negative|neutral", "confidence": 0.0-1.0, "summary": "..." }
+    Returns parsed dict or None on failure.
+    """
+    if not GEMINI_AVAILABLE:
+        logging.info("Gemini SDK not available. Skipping LLM analysis.")
+        return None
+    if not GEMINI_API_KEY:
+        logging.info("GEMINI_API_KEY not set; skipping Gemini analysis.")
+        return None
+
+    try:
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        prompt = (
+            "You are an assistant that reads a short news article and returns ONLY valid JSON with keys:\n"
+            "- sentiment: one of 'positive', 'negative', or 'neutral'\n"
+            "- confidence: number between 0 and 1\n"
+            "- summary: a 1-2 sentence neutral summary\n\n"
+            f"Text:\n\"\"\"\n{text}\n\"\"\"\n\n"
+        )
+
+        # Use generate_content (SDK may vary by version; this tries the common method)
+        response = client.models.generate_content(model=model, contents=prompt)
+
+        # Try to extract text robustly from different SDK shapes
+        out_text = None
+        if hasattr(response, "text") and response.text:
+            out_text = response.text
+        else:
+            # try dict-like shapes
+            try:
+                if isinstance(response, dict):
+                    # try known keys
+                    if "candidates" in response and response["candidates"]:
+                        out_text = response["candidates"][0].get("content")
+                    elif "generations" in response and response["generations"]:
+                        out_text = response["generations"][0].get("content")
+                else:
+                    gens = getattr(response, "candidates", None) or getattr(response, "generations", None)
+                    if gens and len(gens) > 0:
+                        first = gens[0]
+                        out_text = getattr(first, "content", None) or first.get("content", None)
+            except Exception:
+                out_text = None
+
+        if not out_text:
+            logging.warning("Gemini returned no text content.")
+            return None
+
+        out = out_text.strip()
+        if out.startswith("```"):
+            out = out.split("```", 2)[-1].strip()
+
+        # parse JSON
+        try:
+            obj = json.loads(out)
+            # Normalize confidence to float if present
+            if "confidence" in obj:
+                try:
+                    obj["confidence"] = float(obj["confidence"])
+                except Exception:
+                    pass
+            return obj
+        except json.JSONDecodeError:
+            # Not valid JSON; as fallback return a raw summary under 'summary'
+            logging.warning("Gemini output not valid JSON; returning text as summary.")
+            return {"sentiment": "unknown", "confidence": 0.0, "summary": out}
+    except Exception as e:
+        logging.warning("Gemini call failed: %s", e)
+        return None
+
+#%% LLM cache helpers to reduce repeated calls
+def load_llm_cache(path: str) -> Dict[str, Dict]:
+    if os.path.isfile(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            logging.warning("Failed to load LLM cache; starting fresh.")
+    return {}
+
+def save_llm_cache(path: str, cache: Dict[str, Dict]):
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logging.warning("Failed to save LLM cache: %s", e)
+
+def llm_analyze_with_cache(text: str, cache: Dict) -> Dict:
+    key = hashlib.sha256(text.encode("utf-8")).hexdigest()[:32]
+    if key in cache:
+        return cache[key]
+    result = analyze_with_gemini(text) if GEMINI_AVAILABLE else None
+    cache[key] = result or {"sentiment": "unknown", "confidence": 0.0, "summary": ""}
+    return cache[key]
+
+#%% persistence: seen & aggregated CSV helpers
+def load_seen_from_csv(path: str) -> Set[str]:
+    seen = set()
+    if os.path.isfile(path):
+        try:
+            with open(path, "r", encoding="utf-8", newline="") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    id_ = (row.get("id") or "").strip()
+                    if id_:
+                        seen.add(id_)
+        except Exception as e:
+            logging.warning("Failed to read seen CSV %s: %s", path, e)
+    return seen
+
+def append_seen_to_csv(path: str, row: Dict[str, str]):
+    fieldnames = ["id", "platform", "url", "saved_at"]
+    file_exists = os.path.isfile(path)
+    try:
+        with open(path, "a", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            if not file_exists:
+                writer.writeheader()
+            writer.writerow({k: row.get(k, "") for k in fieldnames})
+    except Exception as e:
+        logging.error("Failed to append seen row to CSV %s: %s", path, e)
+
+def append_aggregated_csv(path: str, article_row: Dict[str, str]):
+    # Note: 'scores' column used for VADER compound
+    fieldnames = [
+        "id","platform","url","title_or_text","source","published",
+        "vader_sentiment","scores",
+        "llm_sentiment","llm_confidence","llm_summary",
+        "saved_at"
+    ]
+    file_exists = os.path.isfile(path)
+    try:
+        with open(path, "a", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            if not file_exists:
+                writer.writeheader()
+            row = {k: (article_row.get(k, "") if article_row.get(k, None) is not None else "") for k in fieldnames}
+            writer.writerow(row)
+    except Exception as e:
+        logging.error("Failed to append aggregated CSV %s: %s", path, e)
+
+#%% Alert state (cooldown)
+def load_alert_state(path: str) -> Dict[str, Dict]:
+    if os.path.isfile(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            logging.warning("Failed to load alert state; starting fresh.")
+    return {}
+
+def save_alert_state(path: str, state: Dict[str, Dict]):
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(state, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logging.warning("Failed to save alert state: %s", e)
+
+def should_alert_keyword(state: Dict[str, Dict], keyword: str) -> bool:
+    now_ts = int(time.time())
+    entry = state.get(keyword)
+    if not entry:
+        return True
+    last_ts = entry.get("last_alert_ts", 0)
+    return (now_ts - last_ts) >= ALERT_COOLDOWN_SECONDS
+
+def set_alert_timestamp(state: Dict[str, Dict], keyword: str):
+    state[keyword] = {"last_alert_ts": int(time.time())}
+
+#%% NewsAPI paginated fetch (to target total items)
+def fetch_articles_newsapi_paginated(api_key: str, query: str, total: int = TOTAL_PER_KEYWORD, page_size: int = NEWSAPI_PAGE_SIZE, language: str = DEFAULT_LANGUAGE) -> List[Dict]:
+    articles: List[Dict] = []
+    if not api_key:
+        logging.error("No NewsAPI key provided.")
+        return articles
+
+    page = 1
+    while len(articles) < total:
+        params = {
+            "q": query,
+            "pageSize": page_size,
+            "page": page,
+            "language": language,
+            "sortBy": "publishedAt",
+            "apiKey": api_key
+        }
+        try:
+            r = requests.get("https://newsapi.org/v2/everything", params=params, timeout=15)
+            if r.status_code != 200:
+                logging.warning("NewsAPI returned %s for query '%s': %s", r.status_code, query, r.text)
+                break
+            payload = r.json() or {}
+            page_articles = payload.get("articles", []) or []
+            if not page_articles:
+                break
+            articles.extend(page_articles)
+            # if results fewer than page_size, no more pages
+            if len(page_articles) < page_size:
+                break
+            page += 1
+        except Exception as e:
+            logging.error("Error fetching NewsAPI page %s for '%s': %s", page, query, e)
+            break
+
+    # return only up to requested total
+    return articles[:total]
+
+#%% helpers
+def sentiment_label_from_compound(compound: float) -> str:
+    if compound >= 0.05:
+        return "positive"
+    elif compound <= -0.05:
+        return "negative"
+    else:
+        return "neutral"
+
+def text_hash(text: str) -> str:
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+#%% Main
+def main():
+    if not NEWSAPI_KEY:
+        logging.error("NEWSAPI_KEY not set in environment. Exiting.")
+        return
+    if not SLACK_WEBHOOK_URL:
+        logging.warning("SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.")
+
+    parser_msg = "Enter keywords (comma-separated, e.g. 'AI, bitcoin, startups'): "
+    raw = input(parser_msg).strip()
+    if not raw:
+        logging.error("No keywords provided. Exiting.")
+        return
+    keywords = [k.strip() for k in raw.split(",") if k.strip()]
+    logging.info("Monitoring keywords: %s", ", ".join(keywords))
+    logging.info("Polling interval: %s seconds", POLL_INTERVAL_SECONDS)
+
+    seen = load_seen_from_csv(SEEN_FILE)
+    llm_cache = load_llm_cache(LLM_CACHE_FILE)
+    alert_state = load_alert_state(ALERT_STATE_FILE)
+
+    try:
+        while True:
+            check_time = datetime.now(timezone.utc).astimezone().isoformat()
+            print("\n" + "="*80)
+            print(f"CHECK TIME: {check_time}")
+            print("="*80)
+
+            cycle_alerts = []
+
+            for kw in keywords:
+                logging.info("Fetching up to %s articles for keyword: %s", TOTAL_PER_KEYWORD, kw)
+                articles = fetch_articles_newsapi_paginated(NEWSAPI_KEY, kw, total=TOTAL_PER_KEYWORD, page_size=NEWSAPI_PAGE_SIZE, language=DEFAULT_LANGUAGE)
+                if not articles:
+                    logging.info("No articles for keyword '%s' or error occurred.", kw)
+                    continue
+
+                for art in articles:
+                    url = art.get("url") or ""
+                    unique_id = text_hash(url)
+                    if unique_id in seen:
+                        continue
+
+                    title = (art.get("title") or "").strip()
+                    source = (art.get("source") or {}).get("name", "") or ""
+                    published = art.get("publishedAt", "") or ""
+                    description = art.get("description") or ""
+                    content = art.get("content") or ""
+                    text_to_score = " ".join([title, description, content]).strip() or title
+
+                    # VADER scoring
+                    scores = sia.polarity_scores(text_to_score)
+                    compound = scores["compound"]
+                    vader_label = sentiment_label_from_compound(compound)
+
+                    # LLM (Gemini) ALWAYS ON
+                    llm_result = llm_analyze_with_cache(text_to_score, llm_cache) if GEMINI_AVAILABLE else {"sentiment":"", "confidence":0.0, "summary":""}
+
+                    # write aggregated CSV (scores column used for VADER compound)
+                    row = {
+                        "id": unique_id,
+                        "platform": "newsapi",
+                        "url": url,
+                        "title_or_text": title or description[:200],
+                        "source": source,
+                        "published": published,
+                        "vader_sentiment": vader_label,
+                        "scores": f"{compound:.3f}",
+                        "llm_sentiment": llm_result.get("sentiment",""),
+                        "llm_confidence": str(llm_result.get("confidence","")),
+                        "llm_summary": llm_result.get("summary",""),
+                        "saved_at": datetime.now(timezone.utc).astimezone().isoformat(),
+                    }
+                    append_aggregated_csv(AGGREGATED_CSV, row)
+                    append_seen_to_csv(SEEN_FILE, {"id": unique_id, "platform":"newsapi", "url": url, "saved_at": datetime.now(timezone.utc).astimezone().isoformat()})
+                    seen.add(unique_id)
+
+                    # Console output
+                    print("-"*80)
+                    print(f"Keyword   : {kw}")
+                    print(f"Title     : {title}")
+                    print(f"Source    : {source}")
+                    print(f"Published : {published}")
+                    print(f"VADER     : {vader_label} (scores={compound:.3f})")
+                    if GEMINI_AVAILABLE:
+                        print(f"Gemini    : {llm_result.get('sentiment')} (conf={llm_result.get('confidence')})")
+                        # summary truncated in console
+                        print(f"Summary   : {llm_result.get('summary','')[:200]}")
+
+                    # Alert decision: only strong pos/neg, and respect per-keyword cooldown
+                    alerted = False
+                    if (compound <= NEGATIVE_ALERT_THRESHOLD or compound >= POSITIVE_ALERT_THRESHOLD) and should_alert_keyword(alert_state, kw):
+                        # choose emoji based on sign (user chose color emoji style)
+                        if compound <= NEGATIVE_ALERT_THRESHOLD:
+                            emoji = ":rotating_light:"
+                            polarity_word = "NEGATIVE"
+                        else:
+                            emoji = ":tada:"
+                            polarity_word = "POSITIVE"
+
+                        # short message format #1 (you selected)
+                        # Example:
+                        # :tada: [AI] positive news → VADER=0.72
+                        # Title: ...
+                        slack_msg = (
+                            f"{emoji} [{kw}] {polarity_word} news → VADER={compound:.2f}\n"
+                            f"Title: {title}\n"
+                            f"Source: {source}\n"
+                            f"Published: {published}\n"
+                            f"URL: {url}"
+                        )
+
+                        send_to_slack(slack_msg)
+                        set_alert_timestamp(alert_state, kw)
+                        alerted = True
+                        cycle_alerts.append({"keyword": kw, "type": polarity_word.lower(), "score": compound, "title": title})
+
+                    # small local pause to be polite to APIs
+                    time.sleep(0.15)
+
+            # Save caches & alert state
+            save_llm_cache(LLM_CACHE_FILE, llm_cache)
+            save_alert_state(ALERT_STATE_FILE, alert_state)
+
+            # If any alerts in cycle, send short summary to Slack (optional)
+            if cycle_alerts:
+                summary_lines = [f"Cycle {check_time}: {len(cycle_alerts)} alerts"]
+                for a in cycle_alerts:
+                    summary_lines.append(f"- {a['keyword']} [{a['type']}] score={a['score']:.3f} title={a.get('title','')[:80]}")
+                send_to_slack("\n".join(summary_lines))
+
+            print("\nCycle complete. Sleeping for %s seconds." % POLL_INTERVAL_SECONDS)
+            logging.info("Cycle complete. Sleeping for %s seconds.", POLL_INTERVAL_SECONDS)
+            time.sleep(POLL_INTERVAL_SECONDS)
+
+    except KeyboardInterrupt:
+        logging.info("Interrupted by user. Exiting.")
+        print("\nStopped by user. Aggregated data saved to", AGGREGATED_CSV)
+        save_llm_cache(LLM_CACHE_FILE, llm_cache)
+        save_alert_state(ALERT_STATE_FILE, alert_state)
+
+#%% entrypoint
+if __name__ == "__main__":
+    main()

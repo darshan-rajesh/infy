@@ -1,0 +1,6 @@
+# Python / VS Code / env ignores
+.env
+venv/
+__pycache__/
+*.pyc
+.vscode/

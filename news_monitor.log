@@ -1,0 +1,1322 @@
+2025-10-08 19:38:49,141 [INFO] Monitoring keywords: ai, openai
+2025-10-08 19:38:49,142 [INFO] Polling interval: 900 seconds
+2025-10-08 19:38:49,155 [INFO] Loaded 0 seen URLs from seen_urls.csv
+2025-10-08 19:38:49,156 [INFO] Fetching articles for keyword: ai
+2025-10-08 19:38:50,159 [INFO] Fetching articles for keyword: openai
+2025-10-08 19:38:51,183 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-08 19:39:41,744 [INFO] Interrupted by user. Exiting.
+2025-10-14 19:07:56,916 [INFO] Monitoring keywords: ai
+2025-10-14 19:07:56,917 [INFO] Polling interval: 900 seconds
+2025-10-14 19:07:56,958 [INFO] Loaded 0 seen IDs from seen_items.csv
+2025-10-14 19:07:56,959 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-14 19:08:01,521 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-14 19:11:00,825 [INFO] Interrupted by user. Exiting.
+2025-10-15 17:12:48,225 [INFO] Monitoring keywords: ai openai
+2025-10-15 17:12:48,226 [INFO] Polling interval: 900 seconds
+2025-10-15 17:12:48,273 [INFO] Fetching NewsAPI articles for keyword: ai openai
+2025-10-15 17:12:50,709 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-15 17:13:30,671 [INFO] Interrupted by user. Exiting.
+2025-10-15 18:25:26,752 [INFO] Monitoring keywords: ai openai
+2025-10-15 18:25:26,763 [INFO] Polling interval: 900 seconds
+2025-10-15 18:25:26,786 [INFO] Fetching NewsAPI articles for keyword: ai openai
+2025-10-15 18:25:28,992 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:28,995 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:28,998 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,001 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,005 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,013 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,020 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,026 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,033 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,037 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,042 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,047 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,050 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,055 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,059 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,064 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,069 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,073 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,077 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,081 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-15 18:25:29,083 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-15 18:35:57,540 [INFO] Interrupted by user. Exiting.
+2025-10-15 18:36:23,027 [INFO] Monitoring keywords: ai opnai
+2025-10-15 18:36:23,028 [INFO] Polling interval: 900 seconds
+2025-10-15 18:36:23,079 [INFO] Fetching NewsAPI articles for keyword: ai opnai
+2025-10-15 18:36:25,289 [INFO] No articles for 'ai opnai' or an error occurred.
+2025-10-15 18:36:25,291 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-15 18:59:01,809 [INFO] Interrupted by user. Exiting.
+2025-10-16 18:18:16,715 [INFO] Monitoring keywords: ai
+2025-10-16 18:18:16,716 [INFO] Polling interval: 900 seconds
+2025-10-16 18:18:16,739 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-16 18:18:17,739 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,741 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,742 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,744 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,746 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,748 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,750 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,752 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,754 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,755 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,757 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,759 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,760 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,762 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,764 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,766 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,768 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,769 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,772 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-16 18:18:17,772 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-16 18:18:56,881 [INFO] Interrupted by user. Exiting.
+2025-10-17 19:22:46,436 [INFO] Monitoring keywords: ai
+2025-10-17 19:22:46,476 [INFO] Polling interval: 900 seconds
+2025-10-17 19:22:46,491 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-17 19:22:47,600 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,603 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,606 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,610 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,616 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,620 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,623 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,627 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,631 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,635 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,638 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,643 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,647 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,651 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,655 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,658 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,661 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,664 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:22:47,665 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-17 19:30:41,009 [INFO] Interrupted by user. Exiting.
+2025-10-17 19:30:49,227 [INFO] Monitoring keywords: ai
+2025-10-17 19:30:49,228 [INFO] Polling interval: 900 seconds
+2025-10-17 19:30:49,239 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-17 19:41:50,257 [INFO] Monitoring keywords: ai
+2025-10-17 19:41:50,258 [INFO] Polling interval: 900 seconds
+2025-10-17 19:41:50,272 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-17 19:41:51,460 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,463 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,506 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,511 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,515 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,518 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,520 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,523 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,529 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,532 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,534 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,538 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,540 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,543 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,547 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,550 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,553 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,556 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,561 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,564 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-17 19:41:51,566 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-17 19:42:33,972 [INFO] Interrupted by user. Exiting.
+2025-10-18 17:46:29,453 [INFO] Monitoring keywords: mercedes
+2025-10-18 17:46:29,455 [INFO] Polling interval: 900 seconds
+2025-10-18 17:46:29,480 [INFO] Fetching NewsAPI articles for keyword: mercedes
+2025-10-18 17:46:30,405 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,407 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,409 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,410 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,412 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,413 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,415 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,417 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,420 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,422 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,424 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,425 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,428 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,430 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,432 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,433 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,435 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,437 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,439 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-18 17:46:30,440 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-18 17:46:35,776 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:08:13,097 [INFO] Monitoring keywords: ai
+2025-10-24 11:08:13,098 [INFO] Polling interval: 900 seconds
+2025-10-24 11:08:13,115 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:08:14,675 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,678 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,681 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,684 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,689 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,694 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,698 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,700 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,706 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,712 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,715 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,719 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,724 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,727 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,731 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,735 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,738 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,742 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,745 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,749 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:08:14,750 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:08:37,768 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:08:59,350 [INFO] Monitoring keywords: ai
+2025-10-24 11:08:59,350 [INFO] Polling interval: 900 seconds
+2025-10-24 11:08:59,366 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:09:00,608 [WARNING] NewsAPI status 426 for 'ai': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 0 to 200. Please upgrade to a paid plan if you need more results."}
+2025-10-24 11:09:00,611 [INFO] No articles for 'ai' or an error occurred.
+2025-10-24 11:09:00,612 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:09:30,838 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:09:56,382 [INFO] Monitoring keywords: ai
+2025-10-24 11:09:56,383 [INFO] Polling interval: 900 seconds
+2025-10-24 11:09:56,405 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:09:57,643 [WARNING] NewsAPI status 426 for 'ai': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 0 to 200. Please upgrade to a paid plan if you need more results."}
+2025-10-24 11:09:57,646 [INFO] No articles for 'ai' or an error occurred.
+2025-10-24 11:09:57,647 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:10:47,373 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:10:55,970 [INFO] Monitoring keywords: ai
+2025-10-24 11:10:55,970 [INFO] Polling interval: 900 seconds
+2025-10-24 11:10:55,985 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:10:57,491 [INFO] No articles for 'ai' or an error occurred.
+2025-10-24 11:10:57,493 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:11:35,450 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:11:56,600 [INFO] Monitoring keywords: ai
+2025-10-24 11:11:56,601 [INFO] Polling interval: 900 seconds
+2025-10-24 11:11:56,618 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:11:57,980 [INFO] No articles for 'ai' or an error occurred.
+2025-10-24 11:11:57,981 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:12:14,895 [INFO] Interrupted by user. Exiting.
+2025-10-24 11:13:58,603 [INFO] Monitoring keywords: ai
+2025-10-24 11:13:58,604 [INFO] Polling interval: 900 seconds
+2025-10-24 11:13:58,620 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-10-24 11:13:59,830 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,833 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,878 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,884 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,887 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,894 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,897 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,900 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,904 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,914 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,918 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,921 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,927 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,931 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,935 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,938 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,941 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,944 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,946 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,949 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-10-24 11:13:59,950 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-10-24 11:26:30,758 [INFO] Interrupted by user. Exiting.
+2025-11-03 18:11:53,412 [INFO] Monitoring keywords: ai
+2025-11-03 18:11:53,414 [INFO] Polling interval: 900 seconds
+2025-11-03 18:11:53,441 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-11-03 18:11:54,941 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-03 18:11:55,476 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-03 18:11:55,476 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-11-03 18:12:42,911 [INFO] Interrupted by user. Exiting.
+2025-11-03 18:15:48,669 [INFO] Monitoring keywords: ai
+2025-11-03 18:15:48,670 [INFO] Polling interval: 900 seconds
+2025-11-03 18:15:48,679 [INFO] Fetching NewsAPI articles for keyword: ai
+2025-11-03 18:15:50,272 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-11-03 18:15:53,565 [INFO] Interrupted by user. Exiting.
+2025-11-03 18:38:09,112 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-03 18:38:16,951 [INFO] Monitoring keywords: ai
+2025-11-03 18:38:16,951 [INFO] Polling interval: 900 seconds
+2025-11-03 18:38:16,954 [INFO] Fetching up to 200 articles for keyword: ai
+2025-11-03 18:38:18,980 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:20,636 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:20,637 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:20,640 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-03 18:38:21,300 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:23,609 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:23,610 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:24,273 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:26,685 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:26,686 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:27,382 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:29,225 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:29,226 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:29,946 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:31,766 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:31,767 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:32,450 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:34,601 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:34,602 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:35,312 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:37,123 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:37,124 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:37,819 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:39,581 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:39,582 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:40,342 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:41,813 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:41,814 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:42,624 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:44,302 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:44,303 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:44,981 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:46,392 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:46,419 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:47,166 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:49,978 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:49,979 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:50,647 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:53,197 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:53,198 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:53,874 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:38:55,968 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:38:55,969 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:38:56,378 [INFO] Interrupted by user. Exiting.
+2025-11-03 18:53:38,061 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-03 18:53:41,257 [INFO] Monitoring keywords: bitcoin
+2025-11-03 18:53:41,257 [INFO] Polling interval: 900 seconds
+2025-11-03 18:53:41,279 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-03 18:53:44,320 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-03 18:53:44,990 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:53:46,885 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:53:46,886 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:53:46,890 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-03 18:53:47,555 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:53:49,146 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:53:49,147 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:53:49,806 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:53:51,603 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-03 18:53:51,604 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-03 18:53:52,266 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-03 18:54:46,449 [INFO] Interrupted by user. Exiting.
+2025-11-04 09:29:58,722 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-04 09:30:17,661 [INFO] Monitoring keywords: bitcoin
+2025-11-04 09:30:17,662 [INFO] Polling interval: 900 seconds
+2025-11-04 09:30:17,750 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-04 09:30:20,246 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-04 09:30:21,615 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:30:23,839 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:30:23,841 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:30:25,054 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:30:26,696 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:30:26,698 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:30:27,761 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:30:29,469 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:30:29,471 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:30:30,571 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:30:32,430 [INFO] Interrupted by user. Exiting.
+2025-11-04 09:45:24,416 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-04 09:45:29,419 [INFO] Monitoring keywords: finance
+2025-11-04 09:45:29,420 [INFO] Polling interval: 900 seconds
+2025-11-04 09:45:29,439 [INFO] Fetching up to 200 articles for keyword: finance
+2025-11-04 09:45:32,015 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:33,769 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:33,770 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:33,815 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-04 09:45:34,878 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:37,563 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:37,565 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:38,566 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:40,423 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:40,425 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:41,536 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:42,881 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:45:42,883 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-04 09:45:43,955 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:45,647 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:45,649 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:46,752 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:48,105 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:48,107 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:49,160 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:50,358 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:45:50,360 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-04 09:45:51,505 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:45:57,730 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:45:57,732 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:45:58,927 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:00,598 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:00,599 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:01,864 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:03,668 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:03,670 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:04,961 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:10,226 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:10,229 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:11,353 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:13,092 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:13,095 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:14,173 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:16,022 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:16,025 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:17,029 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:18,621 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:18,623 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:19,700 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:22,000 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:22,002 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:23,012 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:24,933 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:24,934 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:25,838 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:27,285 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:46:27,286 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 32.868328072s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}
+2025-11-04 09:46:28,298 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:29,131 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:46:29,133 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 31.232541165s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}
+2025-11-04 09:46:30,178 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:31,180 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:46:31,181 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 28.89511134s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-11-04 09:46:32,250 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:40,748 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:40,749 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:41,829 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:43,299 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 09:46:43,300 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-04 09:46:44,345 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:45,863 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:45,865 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:46,920 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:48,624 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 09:46:48,626 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 09:46:49,654 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 09:46:55,295 [INFO] Interrupted by user. Exiting.
+2025-11-04 17:49:04,106 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-04 17:49:12,900 [INFO] Monitoring keywords: stock
+2025-11-04 17:49:12,901 [INFO] Polling interval: 900 seconds
+2025-11-04 17:49:12,942 [INFO] Fetching up to 200 articles for keyword: stock
+2025-11-04 17:49:15,781 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:17,104 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:17,105 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:17,761 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:19,310 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:19,312 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:19,969 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:21,547 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:21,548 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:21,551 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-04 17:49:22,207 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:23,761 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:23,762 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:24,421 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:28,897 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:28,899 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:29,555 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:30,821 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:30,822 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:31,495 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:37,048 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:37,049 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:37,705 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:38,949 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:38,951 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:39,613 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:41,251 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:41,252 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:41,905 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:43,316 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:43,317 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:43,985 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:44,799 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:49:44,810 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-04 17:49:45,462 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:48,662 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:48,663 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:49,331 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:50,847 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:50,849 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:51,507 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:52,816 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:52,817 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:53,472 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:54,966 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:54,967 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:55,621 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:57,206 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-04 17:49:57,207 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-04 17:49:57,867 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:58,029 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:49:58,030 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 1.060934169s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
+2025-11-04 17:49:58,682 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:59,066 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:49:59,067 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 34.581658ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}
+2025-11-04 17:49:59,735 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:49:59,914 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:49:59,915 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 59.181988459s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}
+2025-11-04 17:50:00,573 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:00,721 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:00,722 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 58.371627482s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}
+2025-11-04 17:50:01,408 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:01,550 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:01,552 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 57.544530374s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}}
+2025-11-04 17:50:02,208 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:02,366 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:02,367 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 56.727002475s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}}
+2025-11-04 17:50:03,024 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:03,152 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:03,167 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 55.935538821s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}
+2025-11-04 17:50:03,821 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:03,961 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:03,962 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 55.128528185s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}
+2025-11-04 17:50:04,630 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:04,953 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:04,953 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 54.134270633s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}
+2025-11-04 17:50:05,603 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:05,918 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:05,919 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 53.171635907s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+2025-11-04 17:50:06,588 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:06,899 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:06,900 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 52.186968437s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}
+2025-11-04 17:50:07,559 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:07,872 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:07,873 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 51.217949131s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}}
+2025-11-04 17:50:08,522 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:08,914 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:08,915 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 50.241530258s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}
+2025-11-04 17:50:09,584 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:10,044 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:10,045 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 49.085434141s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}
+2025-11-04 17:50:10,709 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:11,171 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:11,172 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 47.974507649s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+2025-11-04 17:50:11,830 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:12,196 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:12,197 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 46.997659563s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}
+2025-11-04 17:50:12,874 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:13,321 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:13,322 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 45.825741085s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}
+2025-11-04 17:50:13,984 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-04 17:50:14,448 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-04 17:50:14,449 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 44.694322944s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}
+2025-11-04 17:50:15,115 [INFO] Interrupted by user. Exiting.
+2025-11-07 09:14:04,721 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-07 09:14:07,558 [INFO] Monitoring keywords: bitcoin
+2025-11-07 09:14:07,558 [INFO] Polling interval: 900 seconds
+2025-11-07 09:14:07,595 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-07 09:14:09,881 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-07 09:14:10,635 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:13,173 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:13,175 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:13,179 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-07 09:14:13,809 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:15,833 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:15,834 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:16,467 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:19,109 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:19,110 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:19,765 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:21,984 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:21,985 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:22,612 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:24,643 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:24,644 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:25,280 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:27,507 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:27,508 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:28,138 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:30,790 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:30,792 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:31,422 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:35,596 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:35,597 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:36,228 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:38,471 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:38,472 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:39,104 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:42,661 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:42,662 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:43,295 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:45,221 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:45,222 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:45,856 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:47,987 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:47,988 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:48,623 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:50,853 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:50,855 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:51,483 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:53,107 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:14:53,107 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-07 09:14:53,734 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:14:57,100 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:14:57,101 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:14:57,728 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:00,070 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:00,071 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:00,706 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:01,708 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:01,709 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 56.85964402s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}}
+2025-11-07 09:15:02,336 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:03,142 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:03,142 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 55.367295976s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}
+2025-11-07 09:15:03,769 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:04,891 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:04,892 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 53.669944826s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+2025-11-07 09:15:05,527 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:06,521 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:06,521 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 52.112691336s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}
+2025-11-07 09:15:07,147 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:08,159 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:08,160 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 50.31157934s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}
+2025-11-07 09:15:08,787 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:09,901 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:09,901 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 48.650873834s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+2025-11-07 09:15:10,557 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:11,042 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:11,043 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 47.406837975s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+2025-11-07 09:15:11,671 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:15,225 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:15,226 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:15,868 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:17,171 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:17,172 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-07 09:15:17,801 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:20,873 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:20,875 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:21,506 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:23,417 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:23,419 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:24,046 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:26,069 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:26,070 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:26,703 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:28,127 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:15:28,128 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-07 09:15:28,753 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:31,711 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:15:31,713 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:15:32,337 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:15:34,170 [INFO] Interrupted by user. Exiting.
+2025-11-07 09:17:56,429 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-07 09:18:10,368 [INFO] Monitoring keywords: bitcoin
+2025-11-07 09:18:10,369 [INFO] Polling interval: 900 seconds
+2025-11-07 09:18:10,407 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-07 09:18:12,380 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-07 09:18:13,015 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:15,964 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:15,965 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:15,966 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:16,589 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:18,524 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:18,525 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:18,526 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:19,159 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:20,869 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:20,870 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:20,872 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:21,498 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:24,265 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:24,266 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:24,268 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:24,893 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:26,715 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:26,716 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:26,717 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:27,346 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:29,061 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:29,063 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:29,064 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:29,692 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:31,331 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:31,332 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:31,333 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:31,956 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:33,883 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:33,884 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:33,886 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:34,509 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:36,246 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:36,247 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:36,248 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:36,871 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:38,805 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:38,807 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:38,808 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:39,436 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:40,334 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:18:40,343 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-07 09:18:40,344 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:40,969 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:42,997 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:42,998 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:43,000 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:43,644 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:45,480 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:45,482 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:45,483 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:46,123 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:48,117 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:48,118 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:48,119 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:48,753 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:51,496 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:51,497 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:51,499 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:52,123 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:53,851 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-07 09:18:53,852 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-07 09:18:53,854 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:54,480 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:55,402 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:18:55,403 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 2.982357505s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}
+2025-11-07 09:18:55,403 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:56,025 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-07 09:18:56,514 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-07 09:18:56,514 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 1.900123271s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
+2025-11-07 09:18:56,515 [ERROR] Failed to append aggregated CSV aggregated_data.csv: [Errno 13] Permission denied: 'aggregated_data.csv'
+2025-11-07 09:18:56,902 [INFO] Interrupted by user. Exiting.
+2025-11-09 21:07:38,132 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-09 21:07:42,064 [INFO] Monitoring keywords: bitcoin
+2025-11-09 21:07:42,065 [INFO] Polling interval: 900 seconds
+2025-11-09 21:07:42,157 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-09 21:07:45,089 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-09 21:07:46,513 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:07:47,931 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:07:47,933 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:07:47,937 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-09 21:07:49,063 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:07:51,026 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:07:51,027 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:07:52,133 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:07:54,008 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:07:54,010 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:07:55,207 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:07:56,964 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:07:56,965 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:07:58,061 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:00,354 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:00,356 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:01,484 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:03,415 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:03,417 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:04,538 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:06,693 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:06,695 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:07,807 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:09,764 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:09,765 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:10,913 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:12,840 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:12,842 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:13,953 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:15,910 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:15,911 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:17,026 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:18,374 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:08:18,375 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:08:19,491 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:08:21,543 [INFO] Interrupted by user. Exiting.
+2025-11-09 21:12:56,409 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-09 21:12:58,713 [INFO] Monitoring keywords: bitcoin
+2025-11-09 21:12:58,714 [INFO] Polling interval: 900 seconds
+2025-11-09 21:12:58,802 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-09 21:13:01,086 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-09 21:13:02,459 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:03,953 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:03,955 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:05,196 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:06,919 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:06,921 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:08,097 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:09,688 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:09,689 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:10,912 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:12,352 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:12,354 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:13,462 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:14,843 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:14,845 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:16,248 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:17,520 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:17,522 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:18,729 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:20,232 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:20,233 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:21,417 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:22,792 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:22,794 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:24,031 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:25,458 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:25,460 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:26,646 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:28,219 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:28,220 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:29,467 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:30,878 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:30,880 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:32,154 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:33,647 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:33,649 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:34,944 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:36,282 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:36,284 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:37,516 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:39,035 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:39,037 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:40,325 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:41,518 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:41,519 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:42,747 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:44,138 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:44,140 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:45,330 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:45,733 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:13:45,735 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 14.420981874s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}
+2025-11-09 21:13:46,953 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:48,703 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:48,705 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:49,764 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:51,365 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:51,367 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:52,348 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:53,825 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:53,827 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:55,076 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:56,585 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:56,587 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:13:57,828 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:13:59,297 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:13:59,299 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:00,655 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:02,113 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:02,115 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:03,285 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:04,781 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:04,783 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:06,000 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:07,340 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:07,342 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:08,660 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:10,310 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:10,311 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:11,541 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:12,768 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:12,770 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:13,943 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:15,324 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:15,326 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:16,499 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:17,987 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:17,989 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:19,195 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:20,860 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:20,862 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:22,095 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:23,623 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:23,625 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:24,831 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:26,384 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:26,386 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:27,683 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:29,145 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:29,179 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:30,587 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:30,890 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:30,892 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 29.207121264s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+2025-11-09 21:14:32,225 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:32,553 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:32,555 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 27.527681048s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}
+2025-11-09 21:14:33,773 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:34,133 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:34,134 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 25.981173957s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}
+2025-11-09 21:14:35,469 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:35,826 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:35,827 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 24.263558415s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}
+2025-11-09 21:14:37,103 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:37,318 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:37,319 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 22.769171355s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '22s'}]}}
+2025-11-09 21:14:38,661 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:38,851 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:38,852 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 21.230079244s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}
+2025-11-09 21:14:40,295 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:40,823 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:40,824 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 19.43434252s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+2025-11-09 21:14:42,102 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:42,567 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:42,568 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 17.630023676s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}
+2025-11-09 21:14:43,928 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:44,336 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-09 21:14:44,338 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 15.792042563s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}
+2025-11-09 21:14:45,808 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:47,609 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:47,611 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:49,080 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:51,989 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:51,990 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:53,461 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:14:55,061 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:14:55,062 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:14:56,339 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:01,099 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:01,101 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:02,455 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:03,974 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:03,975 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:05,230 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:08,491 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:08,493 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:09,745 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:13,083 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:13,084 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:14,357 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:17,488 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:17,490 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:18,761 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:20,350 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:20,352 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:21,638 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-09 21:15:23,114 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-09 21:15:23,116 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-09 21:15:24,357 [INFO] Interrupted by user. Exiting.
+2025-11-10 08:24:26,670 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-10 08:24:29,112 [INFO] Monitoring keywords: bitcoin
+2025-11-10 08:24:29,112 [INFO] Polling interval: 900 seconds
+2025-11-10 08:24:29,187 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-10 08:24:32,707 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:34,655 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:34,657 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:34,666 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-10 08:24:35,835 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:37,878 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:37,881 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:39,196 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:41,238 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:41,240 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:42,438 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:44,329 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:44,331 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:45,594 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:47,605 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:47,606 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:48,755 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:50,787 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:50,790 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:51,913 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:53,752 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:53,755 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:54,899 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:56,821 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:56,823 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:24:57,930 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:24:59,790 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:24:59,791 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:00,915 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:02,875 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:02,877 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:04,271 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:06,037 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:06,039 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:07,172 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:09,210 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:09,212 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:10,604 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:12,795 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:12,797 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:13,975 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:15,768 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:15,770 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:17,069 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:18,836 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:18,838 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:20,207 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:22,113 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:22,114 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:23,496 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:24,391 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 08:25:24,393 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 35.11716528s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}
+2025-11-10 08:25:25,805 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:26,662 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 08:25:26,664 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 32.79823224s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}
+2025-11-10 08:25:27,573 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:28,505 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 08:25:28,506 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 31.022996775s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}
+2025-11-10 08:25:29,736 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:30,613 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 08:25:30,615 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 28.913261137s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-11-10 08:25:31,760 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:32,571 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 08:25:32,572 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 26.833001462s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}
+2025-11-10 08:25:33,784 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:35,692 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:35,693 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:36,885 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:38,804 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:38,807 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:40,210 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:42,358 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:42,360 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:43,545 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:45,461 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:45,463 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:46,607 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:48,328 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:48,329 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:49,493 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:51,404 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:51,407 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:52,550 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:54,563 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:54,565 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:55,758 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:25:57,848 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:25:57,850 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:25:59,233 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:26:01,232 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:26:01,233 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:26:02,349 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:26:04,098 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:26:04,099 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:26:05,262 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:26:07,375 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 08:26:07,377 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 08:26:08,575 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 08:26:10,857 [INFO] Interrupted by user. Exiting.
+2025-11-10 17:06:31,929 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-10 17:06:34,464 [INFO] Monitoring keywords: bitcoin
+2025-11-10 17:06:34,464 [INFO] Polling interval: 900 seconds
+2025-11-10 17:06:34,555 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-10 17:06:37,314 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:06:41,863 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:06:41,865 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:06:41,909 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-10 17:06:43,028 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:06:44,015 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:06:44,017 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-10 17:06:45,122 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:06:46,778 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:06:46,779 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:06:47,888 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:06:50,863 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:06:50,865 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:06:52,052 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:06:54,869 [INFO] Interrupted by user. Exiting.
+2025-11-10 17:07:42,221 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-10 17:07:45,013 [INFO] Monitoring keywords: bitcoin
+2025-11-10 17:07:45,014 [INFO] Polling interval: 900 seconds
+2025-11-10 17:07:45,060 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-10 17:07:47,717 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:07:49,449 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:07:49,451 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:07:50,600 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:07:52,212 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:07:52,215 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:07:53,408 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:07:54,875 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:07:54,876 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:07:55,498 [INFO] Interrupted by user. Exiting.
+2025-11-10 17:08:27,593 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-10 17:08:30,045 [INFO] Monitoring keywords: bitcoin
+2025-11-10 17:08:30,045 [INFO] Polling interval: 900 seconds
+2025-11-10 17:08:30,126 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-10 17:08:33,148 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:34,815 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:34,818 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:36,255 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:38,091 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:38,094 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:39,230 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:41,535 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:41,536 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:42,692 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:44,644 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:44,645 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:45,935 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:49,470 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:49,472 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:50,639 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:52,221 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:52,223 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:53,339 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:54,884 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:54,886 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:56,122 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:08:57,853 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:08:57,854 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:08:59,005 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:01,233 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:01,235 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:02,426 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:03,997 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:03,999 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:05,221 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:06,968 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:06,986 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:08,318 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:09,833 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:09,835 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:11,133 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:12,804 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:12,805 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:13,958 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:15,978 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:15,980 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:17,146 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:18,640 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:18,642 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:19,823 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:22,122 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:22,124 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:23,272 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:25,706 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:25,708 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:27,085 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:29,497 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:29,499 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:30,659 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:31,033 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:09:31,035 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 28.308424984s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-11-10 17:09:32,358 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:32,716 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:09:32,717 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 26.574661886s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}
+2025-11-10 17:09:34,021 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:34,413 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:09:34,414 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 24.934036968s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}
+2025-11-10 17:09:35,827 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:36,255 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:09:36,256 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 23.083919896s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}
+2025-11-10 17:09:37,428 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:43,218 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:43,220 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:44,359 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:45,876 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:45,877 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:47,062 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:48,748 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:48,750 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:49,952 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:51,717 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:51,719 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:52,910 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:54,687 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:54,688 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:55,856 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:09:57,760 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:09:57,762 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:09:58,936 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:00,523 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:00,525 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:01,701 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:03,393 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:03,395 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:04,537 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:06,257 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:06,259 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:07,406 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:09,332 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:09,333 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:10,473 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:12,198 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:12,199 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:13,347 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:14,964 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:14,966 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:16,238 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:18,037 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:18,039 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:18,957 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:20,903 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:20,904 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:21,840 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:23,574 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:23,575 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:24,742 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:26,535 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:26,536 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:27,735 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:28,274 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:10:28,275 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 31.045497532s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}
+2025-11-10 17:10:29,434 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:30,732 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:10:30,733 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 28.599495038s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+2025-11-10 17:10:31,853 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:32,370 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:10:32,375 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 26.97974862s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}
+2025-11-10 17:10:33,504 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:34,013 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:10:34,015 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 25.43911606s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}
+2025-11-10 17:10:35,341 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:35,853 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-10 17:10:35,854 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 23.467830265s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}
+2025-11-10 17:10:37,072 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:38,617 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:38,618 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:39,450 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:40,972 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:40,974 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:42,140 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:43,942 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:43,944 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:45,087 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:46,810 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:46,811 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:47,956 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:49,473 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:49,475 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:50,619 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:10:52,238 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:10:52,240 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:10:52,400 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-11-10 17:25:52,402 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-10 17:25:54,619 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-10 17:25:56,351 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-10 17:25:56,353 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-10 17:25:56,358 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-10 17:25:56,513 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-10 17:25:56,514 [INFO] Cycle complete. Sleeping for 900 seconds.
+2025-11-10 17:30:28,151 [INFO] Interrupted by user. Exiting.
+2025-11-13 18:40:53,164 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-13 18:40:56,167 [INFO] Monitoring keywords: bitcoin
+2025-11-13 18:40:56,168 [INFO] Polling interval: 900 seconds
+2025-11-13 18:40:56,209 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-13 18:40:59,712 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-13 18:41:00,816 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:02,558 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:02,560 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:03,338 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:04,997 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:04,998 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:05,867 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:07,659 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:07,660 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:08,524 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:11,661 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:11,663 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:12,985 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:15,292 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:15,293 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:15,297 [WARNING] Slack webhook URL not found. Skipping Slack notification.
+2025-11-13 18:41:16,233 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:18,184 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:18,186 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:19,244 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:20,975 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:20,976 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:21,721 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:25,763 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:25,765 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:26,807 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:30,494 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:30,495 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:31,762 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:34,976 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:41:34,977 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:41:36,661 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:37,917 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:41:37,933 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:41:39,337 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:41:43,547 [INFO] Interrupted by user. Exiting.
+2025-11-13 18:42:53,784 [WARNING] SLACK_WEBHOOK_URL not set. Slack notifications will be skipped.
+2025-11-13 18:42:56,550 [INFO] Monitoring keywords: bitcoin
+2025-11-13 18:42:56,551 [INFO] Polling interval: 900 seconds
+2025-11-13 18:42:56,599 [INFO] Fetching up to 200 articles for keyword: bitcoin
+2025-11-13 18:43:00,206 [WARNING] NewsAPI returned 426 for query 'bitcoin': {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 200. Please upgrade to a paid plan if you need more results."}
+2025-11-13 18:43:01,692 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:07,217 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:07,220 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:08,379 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:10,238 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:10,240 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:11,394 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:12,776 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:12,777 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:14,184 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:16,036 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:16,038 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:17,178 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:20,276 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:43:20,278 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:43:21,402 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:23,142 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:23,144 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:24,592 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:26,828 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:26,830 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:27,972 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:30,002 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:30,004 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:31,174 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:32,660 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:32,662 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:33,852 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:35,533 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:35,535 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:36,716 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:38,401 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:38,402 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:43:39,510 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:54,003 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:43:54,004 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:43:55,189 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:43:59,597 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:43:59,600 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:01,159 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:02,469 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:02,495 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:44:03,621 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:05,544 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:05,546 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:06,586 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:08,406 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:08,407 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:09,456 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:11,373 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:11,374 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:44:12,408 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:13,935 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:13,937 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:15,004 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:16,702 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:16,704 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:44:17,580 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:19,259 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:19,260 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:20,332 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:22,502 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:22,503 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:24,019 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:25,814 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:25,817 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:27,004 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:28,784 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:28,785 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:44:30,031 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:36,873 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:36,875 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:38,022 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:43,424 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:43,425 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+2025-11-13 18:44:44,246 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:45,945 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:45,946 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:47,052 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:51,309 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:51,311 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:52,695 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:54,791 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:54,793 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:56,204 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:57,973 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:44:57,974 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:44:59,229 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:44:59,617 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-11-13 18:44:59,619 [WARNING] Gemini call failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\nPlease retry in 59.302684923s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}
+2025-11-13 18:45:00,870 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:45:02,778 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:45:02,781 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:45:04,289 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:45:06,057 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:45:06,059 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:45:07,538 [INFO] AFC is enabled with max remote calls: 10.
+2025-11-13 18:45:12,021 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-11-13 18:45:12,023 [WARNING] Gemini output not valid JSON; returning text as summary.
+2025-11-13 18:45:13,291 [INFO] Interrupted by user. Exiting.
